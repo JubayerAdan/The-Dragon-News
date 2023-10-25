@@ -1,0 +1,16 @@
+.bg1 {
+  background-image: url("./assets/bg1.png");
+  text-align: center;
+  color: white !important;
+}
+
+.bg h4 {
+  color: #fff;
+
+  text-align: center;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 45px;
+}
